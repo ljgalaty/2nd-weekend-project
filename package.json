@@ -1,0 +1,11 @@
+{
+  "name": "2nd-weekend-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ljgalaty/2nd-weekend-project.git",
+  "author": "ljgalaty <laurel.galaty@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
